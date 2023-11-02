@@ -1,4 +1,4 @@
-import CardWrapper, { Card } from '@/app/ui/dashboard/cards';
+import CardWrapper from '@/app/ui/dashboard/cards';
 
 import LatestInvoices from '@/app/ui/dashboard/latest-invoices';
 
